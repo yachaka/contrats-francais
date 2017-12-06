@@ -5,9 +5,9 @@
 **{{company.name}}**, micro-entrepreneur enregistré sous le n° SIRET
 {{company.siret}} dont les informations de contact sont :
 
-Adresse : {{company.address}}
-Email : {{company.email}}
-Téléphone : {{company.phone}}
+Adresse : {{company.address}}  
+Email : {{company.email}}  
+Téléphone : {{company.phone}}  
 
 Ci-après « **_{{company.name}}_**»,
 
