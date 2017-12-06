@@ -2,11 +2,12 @@
 
 **ENTRE LES SOUSSIGNES **
 
-**{{company.name}}**, {{company.legal_structure}} au capital de
-{{company.capital}} €, enregistrée au RCS de {{company.rcs_city}} sous
-n°{{company.rcs_number}}, dont le siège social est sis {{company.address}},
-représentée aux fins des présentes par {{company.holder_name}} en qualité de
-{{company.holder_role}},
+**{{company.name}}**, micro-entrepreneur enregistré sous le n° SIRET
+{{company.siret}} dont les informations de contact sont :
+
+Adresse : {{company.address}}
+Email : {{company.email}}
+Téléphone : {{company.phone}}
 
 Ci-après « **_{{company.name}}_**»,
 
@@ -369,5 +370,5 @@ Le présent Contrat est régi par la loi française, alors même que le Contrat
 s'exécuterait en tout ou partie à l'étranger.
 
 Tout litige qui s'élèverait à l’occasion du présent Contrat et qui ne pourrait
-être résolu à l'amiable sera soumis à la compétence des Tribunaux de
-{{company.rcs_city}}.
+être résolu à l'amiable sera soumis à la compétence des Tribunaux les plus
+proches de l'adresse suivante : {{company.address}}.
