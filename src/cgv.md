@@ -3,13 +3,16 @@
 ## Article 1. Champ d’application
 
 Les présentes conditions générales sont applicables entre {{company.name}},
-{{company.legal_structure}} au capital de {{company.capital}} €, enregistrée au
-RCS de {{company.rcs_city}} sous n°{{company.rcs_number}}, dont le siège social
-est sis {{company.address}}, représentée aux fins des présentes par
-{{company.holder_name}} en qualité de {{company.holder_role}}, Ci-après dénommée
-« {{company.name}} », et toute personne physique ou morale, particulier ou
-professionnel, de droit privé ou de droit public, contractant avec
-{{company.name}} pour la réalisation d’un Livrable, ci-après « le Client ».
+micro-entrepreneur enregistré sous le n° SIRET {{company.siret}}, et toute
+personne physique ou morale, particulier ou professionnel, de droit privé
+ou de droit public, contractant avec {{company.name}} pour la réalisation
+d’un Livrable, ci-après « le Client ».
+
+Ci-dessous les informations de contact de {{company.name}} :
+
+Adresse : {{company.address}}
+Email : {{company.email}}
+Téléphone : {{company.phone}}
 
 ## Article 2. Définitions
 
