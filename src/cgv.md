@@ -10,9 +10,9 @@ d’un Livrable, ci-après « le Client ».
 
 Ci-dessous les informations de contact de {{company.name}} :
 
-Adresse : {{company.address}}
-Email : {{company.email}}
-Téléphone : {{company.phone}}
+Adresse : {{company.address}}  
+Email : {{company.email}}  
+Téléphone : {{company.phone}}  
 
 ## Article 2. Définitions
 
