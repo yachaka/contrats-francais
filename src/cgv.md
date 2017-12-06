@@ -292,20 +292,24 @@ aux termes du présent contrat.
 
 Le taux horaire ou journalier est celui convenu dans le Devis.
 
-À défaut de stipulation contraire dans le Devis, le paiement interviendra avant
-le commencement de chacune des Itérations
-
 ### 11.2. Rabais – Remise - Ristourne
 
 Sauf accord exprès des Parties, aucun rabais, remise, ristourne ou escompte ne
 sera accordé au Client.
 
-### 11.3. Intérêts en cas de retard
+### 11.3. Règlement
 
-En cas de non-paiement à son échéance, toute somme due portera automatiquement
-intérêt conformément aux dispositions légales en vigueur.
+À défaut de stipulation contraire dans le Devis, le paiement interviendra avant
+le commencement de chacune des Itérations.
 
-### 11.4. Rémunération supplémentaire
+### 11.4. Intérêts en cas de retard
+
+En cas de non-paiement à son échéance, des pénalités seront exigibles sans
+qu'un rappel soit nécessaire conformément à la loi. Ces pénalités s'élèvent à
+20% du montant total de la facture par mois de retard, ainsi qu'une indemnité
+forfaitaire de 40 euros pour frais de recouvrement.
+
+### 11.5. Rémunération supplémentaire
 
 En cas de demandes de la part du Client entraînant une charge de travail
 supplémentaire pour {{company.name}}, les parties conviendront, avant toute
