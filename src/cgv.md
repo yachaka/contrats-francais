@@ -289,7 +289,7 @@ le commencement de chacune des Itérations.
 
 En cas de non-paiement à son échéance, des pénalités seront exigibles sans
 qu'un rappel soit nécessaire conformément à la loi. Ces pénalités s'élèvent à
-20% du montant total de la facture par mois de retard, ainsi qu'une indemnité
+10% du montant total de la facture par mois de retard, ainsi qu'une indemnité
 forfaitaire de 40 euros pour frais de recouvrement.
 
 ### 11.5. Rémunération supplémentaire
