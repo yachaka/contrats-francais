@@ -59,13 +59,6 @@ Itérations successives. Il devra ainsi apporter les solutions techniques
 permettant de concrétiser l’architecture du Livrable et d’en assurer le bon
 fonctionnement. {{company.name}} est soumis à une obligation de moyens.
 
-{{company.name}} pourra sous-traiter tout ou partie de la prestation. A cet
-égard, la simple mention écrite du sous-traitant, sur tout document, de quelque
-manière que ce soit, vaudra agrément du sous-traitant par le Client, à défaut
-d’une notification immédiate de refus adressé par le Client à {{company.name}}
-par lettre recommandée avec avis de réception. Le taux horaire du sous-traitant
-est celui mentionné sur le Devis.
-
 Sauf stipulation contraire dans le Devis, {{company.name}} n’est soumis à
 aucune obligation de maintenance ou d’assistance à l’utilisation.
 
@@ -254,20 +247,7 @@ sur les développements spécifiques est forfaitaire.
 de droit d’auteur sur les développements spécifiques à d’autres rémunérations
 que celles stipulées dans le Devis.
 
-### 9.4. Droit de paternité
-
-À défaut de mention contraire dans le Devis, le nom de {{company.author}},
-auteur originaire du Logiciel, devra être associé au Livrable au cours de son
-exploitation. S’il s’agit d’un site web, le nom de {{company.author}}
-apparaîtra :
-
-sur une page appelé « Crédit », « Informations légales » ou « Mentions légales
-» accessible depuis la page d’accueil du site et comportant un lien hypertexte
-vers [{{company.url_nice}}]({{company.url}});
-
-dans le header du code html des pages web du site sous la balise « Creator ».
-
-### 9.5. Actions en justice
+### 9.4. Actions en justice
 
 À défaut de mention contraire dans le Devis, seule {{company.name}} aura
 qualité pour exercer les actions en contrefaçon et concurrence déloyale
