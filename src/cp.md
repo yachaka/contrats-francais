@@ -9,14 +9,23 @@ contrat.
 {{company.name}} autorise le Client à consentir des sous-licences sur les
 développements spécifiques.
 
-## Prix - Paiement
+## Prix - Modalités de paiement
 
 Le taux journalier de {{company.name}} s'élève à {{company.hourly_rate}}
 {{company.hourly_rate_legend}}. {{company.name}} propose ses services pour
 {{contract.duration}} {{contract.duration_unit}} de prestation.
-{{#if contract.prepayment_novat}}Le client s’engage donc à payer
-{{contract.prepayment_novat}} € HT {{#if contract.prepayment_vat}} soit
-{{contract.prepayment_vat}} € TTC{{/if}} avant l'intervention.{{/if}}
+{{#if contract.payment_novat}}Le Client s’engage donc à payer
+{{contract.payment_novat}} € HT{{#if contract.payment_vat}} soit
+{{contract.payment_vat}} € TTC{{/if}}.{{/if}}
+
+Au dernier jour de chaque mois, le Client s'engage à payer une somme correspondante :
+au nombre de jours travaillés par {{company.name}} multipliés par son taux journalier
+({{company.hourly_rate}} {{company.hourly_rate_legend}}), et ce jusqu'au paiement complet
+de la prestation.
+
+Également, avant l'intervention, le Client s'engage à payer un acompte de 25% soit {{contract.prepayment_novat}} € HT {{#if contract.payment_vat}} soit
+{{contract.prepayment_vat}} € TTC{{/if}}. Ce montant sera déduit des paiements suivants.
+
 Le paiement des prestations interviendra par virement sur le compte bancaire
 dont le RIB a été communiqué au Client.
 
